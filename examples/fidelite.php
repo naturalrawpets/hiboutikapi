@@ -20,9 +20,9 @@
 require __DIR__.'/../../HiboutikAPI/src/Hiboutik/HiboutikAPI/autoloader.php';
 
 //API REST Hiboutik
-$hiboutik_account = "";
-$user = "";
-$pass = "";
+$hiboutik_account = "naturalrawpets";
+$user = "wallisgeorge25@icloud.com";
+$pass = "U0ZL5T5FLKY0U3MPH5U7VVB0NINK2GUM6KX";
 
 
 $hiboutik = new \Hiboutik\HiboutikAPI($hiboutik_account, $user, $pass);
