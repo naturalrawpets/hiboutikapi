@@ -5,8 +5,6 @@
 ####################################################################################################
 */
 
-<?php
-
 require 'HiboutikAPI/src/Hiboutik/autoloader.php';
 
 //API REST Hiboutik
