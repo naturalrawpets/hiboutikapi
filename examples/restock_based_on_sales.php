@@ -8,9 +8,9 @@
 require 'vendor/autoload.php';
 
 //API REST Hiboutik
-$account = "";
-$user = "";
-$key = "";
+$account = "naturalrawpets";
+$user = "wallisgeorge25@icloud.com";
+$key = "U0ZL5T5FLKY0U3MPH5U7VVB0NINK2GUM6KX";
 
 
 $url = "https://$account.hiboutik.com/apirest";
