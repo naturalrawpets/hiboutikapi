@@ -5,7 +5,9 @@
 ####################################################################################################
 */
 
-require 'vendor/autoload.php';
+<?php
+
+require 'HiboutikAPI/src/Hiboutik/autoloader.php';
 
 //API REST Hiboutik
 $account = "naturalrawpets";
